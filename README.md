@@ -1,7 +1,9 @@
-Ejemplo Calculadora Simple
+Proyecto Final Study Jam
 ========================
 
-En este ejemplo se puede ver el manejo de las funciones en Java
+Este proyecto refleja parte de lo aprendido en el Study Jam Beginners donde se puede ver el manejo de estructuras en general mas Java.
+Esta aplicacion esta contemplada para su uso como guia rapida sobre formatos digitales e impresos para Diseñadores o Artistas Graficos.
+
 
 Requerimientos
 ------------
@@ -13,7 +15,7 @@ Uso
 ---------
 Para probar este ejemplo clona este repositorio de la siguiente forma:
 >
->     $ git clone https://github.com/nohelyrp/StudyJam_Tarea2.git
+>     $ git clone https://github.com/nohelyrp/StudyJam_ProyectoFinal.git
 
 Dentro de Android Studio:
 
