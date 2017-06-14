@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Piece of Cake</string>
+    <string name="paper">Paper</string>
+    <string name="pixel">Pixel</string>
+    <string name="rrss">Redes Sociales</string>
+    <string name="formatos">Recursos</string>
+    <string name="textoA">Las dimensiones de los tamaños de papel de la serie A, tal como se define en la norma ISO 216,
+        se dan en la tabla de abajo, tanto en milímetros y pulgadas (medidas cm puede obtenerse dividiendo el valor en 10 mm).
+        Un documento de la Serie gráfico de tamaño con una explicación visual de cómo el tamaño y su relación entre sí.</string>
+    <string name="textoB">El documento de la serie B, los tamaños se definen en la norma ISO 216 de la siguiente manera.
+
+Los tamaños de la serie B de papel se creó con el fin de proporcionar los tamaños de papel que no estaban cubiertas por la serie A,
+        pero también utilizan una relación de aspecto de 1: root2. tamaños B se definen como el tamaño B (n) siendo la media geométrica de tamaño A (n) y el tamaño de A (n-1). Las medias geométricas de los dos números que son la raíz cuadrada del producto de los dos números.
+
+\n Este sistema da una propiedad útil para la ampliación y la reducción de los documentos en que la ampliación
+        de la A (n) a B (n) es la misma que la de B (n) a A (n-1).
+
+Al igual que con el documento de la serie A las longitudes estándar y anchuras se redondean al milímetro.</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="acerca_de">Acerca de...</string>
+    <string name="resumen">Esta aplicación fue creada como una guía rápida de formatos digitales y de papel para diseñadores o artistas gráficos.</string>
+</resources>
