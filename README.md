@@ -35,7 +35,9 @@ Captura
                 <td><img src="/img/captura2.png" width="250"></td>
                 <td><img src="/img/captura3.png" width="250"></td>
                 <td><img src="/img/captura4.png" width="250"></td>
-                <td><img src="/img/captura1.png" width="250"></td>
+                <td><img src="/img/captura5.png" width="250"></td>
+                <td><img src="/img/captura6.png" width="250"></td>
+                <td><img src="/img/video.gif" width="250"></td>
             </tr>
         </table>
     </center>
